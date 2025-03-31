@@ -11,11 +11,14 @@
 ### Gravity Flipping ↕️ 
 - Grav Flipper (Brazz) has the ability to flip a guest upside down which swaps their Pop and Cash values
 - Replaces the Magician's Swap ability
+![Brazz between two pilots, one is upside down](/images/flipped.jpg)
 
 ### Peeking 👁️ 
 - The Peek ability now reveals the next 2 guests waiting outside the door.
 - However, you can no longer boot the guest who is at the door.
 - Example guest: News Anchor
+
+![Two future guests are visible outside the door](/images/peeking.jpg)
 
 ### Quibble Racing 🏁 
 - Dancers have been replaced with Quibbles
@@ -26,7 +29,10 @@
 
 ### Umbrella ☂️ 
 - The umbrella is a peacekeeper every other entrance
-- Replaces the werewolf 
+- Replaces the werewolf
+
+### Scenario 1: Human Invitation
+![13 unique guests lined up](/images/scenario1.jpg)
 
 ## How to Install the Mod
 
