@@ -2,7 +2,7 @@
 - Replaces normal Party House guests with other characters from UFO 50.
   - Currently 16/46 guests have been replaced with new graphics and names
   - Many guests have had their stats and abilities changed
-- Rebalances 5 standard scenarios
+- Rebalances standard scenarios
   - Currently 1/5 scenario has been rebalanced
 - Compatible with UFO 50 v1.7.2.2
 
