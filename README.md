@@ -32,7 +32,7 @@
 - The umbrella is a peacekeeper every other entrance
 - Replaces the werewolf
 
-### Scenario 1: Human Invitation
+### Remix Scenario 1: Human Invitation
 ![13 unique guests lined up](/images/scenario1.jpg)
 
 ## How to Install the Mod
