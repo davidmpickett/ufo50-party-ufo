@@ -1,4 +1,4 @@
-# UFO 50 Mod - Party UFO: A Remix of Party House
+# UFO 50 Mod - Party UFO: A Party House Remix
 - Replaces normal Party House guests with other characters from UFO 50.
   - Currently 16/46 guests have been replaced with new graphics and names
   - Many guests have had their stats and abilities changed
