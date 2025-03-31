@@ -6,6 +6,8 @@
   - Currently 1/5 scenario has been rebalanced
 - Compatible with UFO 50 v1.7.2.2
 
+![Party UFO disk in the UFO 50 menu](/images/disk.jpg)
+
 ## Features
 
 ### Gravity Flipping ↕️ 
