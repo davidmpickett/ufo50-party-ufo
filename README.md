@@ -11,7 +11,7 @@
 ## Features
 
 ### Gravity Flipping ↕️ 
-- Grav Flipper (Brazz) has the ability to flip a guest upside down which swaps their Pop and Cash values
+- Flipper (Brazz) has the ability to flip a guest upside down which swaps their Pop and Cash values
 - Replaces the Magician's Swap ability
 
 ![Brazz between two pilots, one is upside down](/images/flipped.jpg)
