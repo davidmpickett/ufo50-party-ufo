@@ -45,8 +45,13 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 - Replaces the werewolf
 
 ### Remix Scenario 1: Human Invitation
-![13 unique guests lined up](/images/scenario1.jpg)
+Queen Zu has lured guests from across the galaxy to her Party UFO with the promise of a very special star guest: a hoo-man from Eee-arth. Now she just needs to make sure those meddling Campanella kids don't sabotage her hyperdrive before she can abduct Amy.
+
+![A lineup of aliens, animals, and Amy](/images/scenario1.jpg)
 
 ### Remix Scenario 2: Campaign Finance
+Mayor Speck is running for re-election on a populist platform. He vehemently denies rumors that he is bankrolling his campaign with stolen money, shipping in voters from Mortolia, or forging an unholy alliance with the Demon Princess Charkas.
+
+![A lineup of pirates, politicians and a princess](/images/scenario2.jpg)
 
 
