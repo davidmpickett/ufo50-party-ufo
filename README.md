@@ -18,7 +18,7 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
 
-## Features
+## Updated Character Abilities
 
 ### Gravity Flipping ↕️ 
 - Flipper (Brazz) has the ability to flip a guest upside down which swaps their Pop and Cash values
@@ -44,6 +44,8 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 - The umbrella is a peacekeeper every other entrance
 - Replaces the werewolf
 
+## Scenarios
+
 ### Remix Scenario 1: Human Invitation
 Queen Zu has lured guests from across the galaxy to her Party UFO with the promise of a very special star guest: a hoo-man from Eee-arth. Now she just needs to make sure those meddling Campanella kids don't sabotage her hyperdrive before she can abduct Amy.
 
@@ -53,5 +55,12 @@ Queen Zu has lured guests from across the galaxy to her Party UFO with the promi
 Mayor Speck is running for re-election on a populist platform. He vehemently denies rumors that he is bankrolling his campaign with stolen money, shipping in voters from Mortolia, or forging an unholy alliance with the Demon Princess Charkas.
 
 ![A lineup of pirates, politicians and a princess](/images/scenario2.jpg)
+
+## Character Chart
+
+Party House Name | Party House Image | Party UFO Name | Party UFO Image | Notes
+-- | -- | -- | -- | --
+Old Friend | ![s36_GoodBuddy2F_0](https://github.com/user-attachments/assets/c1a11752-e9c9-41a5-a00b-903ba1eb5c6c) ![s36_GoodBuddy2M_0](https://github.com/user-attachments/assets/b37136d4-7c2b-4287-abde-6c0d1767cbaa) ![s36_GoodBuddyF_0](https://github.com/user-attachments/assets/f98cecd8-cfd5-4e21-bd89-6d7e9068e7c9) ![s36_GoodBuddyM_0](https://github.com/user-attachments/assets/ab1c1416-c7bf-47f2-946b-7b11f057760a) | Oppie | ![s36_GoodBuddy2F_1](https://github.com/user-attachments/assets/7323ba2c-045d-46e2-b8bb-6cde5b0524af) ![s36_GoodBuddyM_1](https://github.com/user-attachments/assets/66b5f9dc-033e-4cd1-aafd-b54440b42a6e) ![s36_GoodBuddy2M_0](https://github.com/user-attachments/assets/fc284a6f-b61b-43ca-aa9e-248a75432aa6) ![s36_GoodBuddyF_1](https://github.com/user-attachments/assets/061deef0-bdc7-4743-9f0c-6c6e9e28c727) | Visual reskin only - no stat changes
+
 
 
