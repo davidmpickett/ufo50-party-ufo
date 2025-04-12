@@ -83,12 +83,10 @@ Gambler | | Scary Doll | |
 Werewolf | | Umbrella | |
 Mascot | | Gardener | |
 Introvert | |Drop Ship | |
-Writer | | NAME | | LX-3-Bot
-Climber | | NAME | | Outlaw
-Magician | | NAME | | Flipper
-Alien | | NAME | | Human
-Mermaid | | NAME | | Cookie Gal
-Superhero | | NAME | | Princess
-
-
+Writer | | LX-3-Bot | | 
+Climber | | Outlaw | | 
+Magician | | Flipper | | 
+Alien | | Human | | 
+Mermaid | | Cookie Gal | | 
+Superhero | | Princess | | 
 
