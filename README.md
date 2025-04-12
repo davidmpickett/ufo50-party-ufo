@@ -8,6 +8,16 @@
 
 ![Party UFO disk in the UFO 50 menu](/images/disk.jpg)
 
+## How to Install the Mod
+
+Note: Installing untrusted mods is risky. Install at your own risk. 
+
+1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
+2. Download the [.xdelta file](/PARTY_UFO_v0.2_v1.7.5.xdelta) for the mod
+3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
+4. You should make a copy of your `data.win` before installing the mod
+5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
+
 ## Features
 
 ### Gravity Flipping ↕️ 
@@ -18,7 +28,7 @@
 
 ### Peeking 👁️ 
 - The Peek ability now reveals the next 2 guests waiting outside the door.
-- However, you can no longer boot the guest who is at the door.
+- If you want to boot the first guest, you have to also boot the second guest.
 - Example guest: News Anchor
 
 ![Two future guests are visible outside the door](/images/peeking.jpg)
@@ -37,12 +47,6 @@
 ### Remix Scenario 1: Human Invitation
 ![13 unique guests lined up](/images/scenario1.jpg)
 
-## How to Install the Mod
+### Remix Scenario 2: Campaign Finance
 
-Note: Installing untrusted mods is risky. Install at your own risk. 
 
-1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Download the [.xdelta file](/PARTY_UFO_v0.2_v1.7.5.xdelta) for the mod
-3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
-4. You should make a copy of your `data.win` before installing the mod
-5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
