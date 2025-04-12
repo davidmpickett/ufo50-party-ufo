@@ -1,10 +1,10 @@
 # UFO 50 Mod - Party UFO: A Party House Remix
 - Replaces normal Party House guests with other characters from UFO 50.
-  - Currently 16/46 guests have been replaced with new graphics and names
+  - Currently 29/46 guests have been replaced with new graphics and names
   - Many guests have had their stats and abilities changed
 - Rebalances standard scenarios
-  - Currently 1/5 scenario has been rebalanced
-- Compatible with UFO 50 v1.7.2.2
+  - Currently 2/5 scenario has been rebalanced
+- Compatible with UFO 50 v1.7.5
 
 ![Party UFO disk in the UFO 50 menu](/images/disk.jpg)
 
@@ -42,7 +42,7 @@
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Download the [.xdelta file](/PARTY_UFO_v0.1.2_v1.7.2.2.xdelta) for the mod
+2. Download the [.xdelta file](/PARTY_UFO_v0.2_v1.7.5.xdelta) for the mod
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
