@@ -13,12 +13,13 @@
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Download the [.xdelta file](/PARTY_UFO_v0.2_v1.7.5.xdelta) for the mod
+2. Download the [.xdelta file](/PARTY_UFO_v0.3_v1.7.5.xdelta) for the mod
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
 
 ## Updated Character Abilities
+<details>
 
 ### Gravity Flipping ↕️ 
 - Flipper (Brazz) has the ability to flip a guest upside down which swaps their Pop and Cash values
@@ -44,6 +45,8 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 - The umbrella is a peacekeeper every other entrance
 - Replaces the werewolf
 
+</details>
+
 ## Scenarios
 
 ### Remix Scenario 1: Human Invitation
@@ -56,7 +59,13 @@ Mayor Speck is running for re-election on a populist platform. He vehemently den
 
 ![A lineup of pirates, politicians and a princess](/images/scenario2.jpg)
 
+### Remix Scenario 3: Unholy Night
+As night falls on Diskonia, red eyes shine in the darkness and the screams of the innocent are cut short by writhing tentacles from the abyss. You seek refuge in an abandoned house, but wait... what was that sound?
+
+![A lineup of creepy creatures and cute characters](/images/scenario3.jpg)
+
 ## Character Chart
+<details>
 
 Party House Name | Party House Image | Party UFO Name | Party UFO Image | Notes
 -- | -- | -- | -- | --
@@ -90,3 +99,4 @@ Alien | ![s36_Alien_0](https://github.com/user-attachments/assets/f80700ca-8b16-
 Mermaid | ![s36_Mermaid_1](https://github.com/user-attachments/assets/b9652c2a-1628-4572-9510-7ac9857ed324) | Cookie Gal | | 
 Superhero | ![s36_Superhero_1](https://github.com/user-attachments/assets/d923f457-59ec-41bf-9fa7-f35f2f1b59bc) | Princess | | 
 
+</details>
