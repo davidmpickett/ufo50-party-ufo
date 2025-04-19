@@ -13,7 +13,7 @@
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Download the [.xdelta file](/PARTY_UFO_v0.3_v1.7.5.xdelta) for the mod
+2. Download the [.xdelta file](/PARTY_UFO_v0.3.1_v1.7.5.xdelta) for the mod
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
