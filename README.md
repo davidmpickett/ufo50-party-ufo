@@ -3,7 +3,8 @@
   - All guests have been replaced with new graphics and names
   - Many guests have had their stats and abilities changed
 - Rebalances standard scenarios
-- Compatible with UFO 50 v1.7.5
+- Compatible with UFO 50 v1.7.6
+- Running a previous version of UFO 50? [Check the archive](/archive)
 
 ![Party UFO disk in the UFO 50 menu](/images/disk.jpg)
 
