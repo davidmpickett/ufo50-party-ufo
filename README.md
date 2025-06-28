@@ -14,7 +14,7 @@ Note: Installing untrusted mods is risky. Install at your own risk.
 
 ### Using GMLoader for UFO50 (preferred method)
 1. Download and install [GMLoader for UFO 50](https://github.com/phil-macrocheira/GMLoader-UFO50/releases)
-2. Download the [latest .zip file](/releases) for the mod
+2. Download the [latest .zip file](https://github.com/davidmpickett/ufo50-party-ufo/releases) for the mod
 3. Unzip the mod and place the `Party UFO` folder inside the `my mods` folder of GMLoader
 4. Run `UFO 50 Mod Installer.exe`
 5. Check the mod(s) you wish to install.
