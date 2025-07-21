@@ -4,4 +4,4 @@
   - Many guests have had their stats and abilities changed
 - Rebalances standard scenarios
 - Compatible with UFO 50 v1.7.6
-- Running a previous version of UFO 50? [Check the archive](/../archive)
+- Running a previous version of UFO 50? [Check the archive](/archive)
